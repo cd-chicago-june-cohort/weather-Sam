@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+form {
+    margin: 10px;
+}
+
+#input-place {
+    height: 200px;
+    width: 400px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+}
+
+#temp {
+    height: 200px;
+    width: 400px;
+    border: 1px solid blue; 
+}
